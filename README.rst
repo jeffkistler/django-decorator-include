@@ -1,5 +1,5 @@
-decorator_include
-=================
+django-decorator-include
+========================
 
 Include Django URL patterns with decorators.
 
@@ -20,7 +20,7 @@ Installation with pip and git
 Assuming you have pip and git installed, run the following command to
 install from the GitHub repository::
 
-    pip install git+git://github.com/jeffkistler/decorator_include.git#egg=decorator_include
+    pip install git+git://github.com/jeffkistler/django-decorator-include.git#egg=django-decorator-include
 
 Usage
 -----
